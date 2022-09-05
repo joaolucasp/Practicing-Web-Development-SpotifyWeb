@@ -2,7 +2,7 @@
 
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img alt="Bootstrap4" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
-#### **Este projeto contempla o curso prático de Desenvolvimento Web Completo - Jamilton Damasceno. Para visualização do site, acesse:**  [Parallax](https://joaolucasp.github.io/Practicing-Web-Development-Parallax/)
+#### **Este projeto contempla o curso prático de Desenvolvimento Web Completo - Jamilton Damasceno. Para visualização do site, acesse:**  [Spotify Web](https://joaolucasp.github.io/Practicing-Web-Development-SpotifyWeb/)
 
 Conhecimentos utilizados
 1. HTML5
